@@ -1,0 +1,22 @@
+{
+  "name": "quadratic-equation",
+  "version": "1.0.0",
+  "description": "Recall school math!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankouskia/quadratic-equation.git"
+  },
+  "author": "Aliaksandr Yankouski <aleksandr.yankovskiy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankouskia/quadratic-equation/issues"
+  },
+  "homepage": "https://github.com/yankouskia/quadratic-equation#readme",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
