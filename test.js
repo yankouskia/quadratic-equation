@@ -1,4 +1,5 @@
 const assert = require('assert');
+Object.freeze(assert);
 const solveEquation = require('./src/index');
 
 describe('Solve quadratic equation', () => {
