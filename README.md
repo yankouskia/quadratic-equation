@@ -2,7 +2,7 @@
 Recall school math!
 
 ## Task
-Your task is to implement `solveEquation` function, wihch solves Quadratic equation.
+Your task is to implement `solveEquation` function, which solves Quadratic equation.
 *Each* equality has exact 2 *integer* solutions. Return those numbers as ordered array.
 
 Example:
